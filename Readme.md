@@ -3,10 +3,10 @@
 An AI-powered productivity assistant application built using Streamlit and Google Gemini API.
 
 ## Features
-- **Text Summarization:** Generate concise summaries of long text.
-- **Question Answering:** Ask open-ended questions and get direct answers.
-- **Content Generation:** Create tailored text based on specific topics or instructions.
-- **Text Analysis:** Extract key insights, bullet points, and action items.
+- **Text Summarization:** Generated concise summaries of long text.
+- **Question Answering:** Asked open-ended questions and got direct answers.
+- **Content Generation:** Created tailored text based on specific topics or instructions.
+- **Text Analysis:** Extracted key insights, bullet points, and action items.
 
 ## Tech Stack
 - Python
